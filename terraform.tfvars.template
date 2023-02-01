@@ -1,0 +1,11 @@
+# .tfvars files are used to populate input variables for your Terraform modules.
+#   Note that this differs from variables.tf which simply defines the required variables in your modules.
+
+# Usage: Remove the .template extension, then provide the following configuration values.
+
+
+# Your DigitalOcean Personal Access Token (Read & Write)
+do_token = ""
+
+# Your SSH Public Key Fingerprint
+ssh_key_fingerprints = [""]
