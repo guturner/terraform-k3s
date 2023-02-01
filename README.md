@@ -4,3 +4,6 @@ A [Breakable Toy](https://www.oreilly.com/library/view/apprenticeship-patterns/9
 ## Setup
 1. Create an account on [Digital Ocean](https://www.digitalocean.com/).
 2. Create a Digital Ocean [Personal Access Token](https://docs.digitalocean.com/reference/api/create-personal-access-token/).
+
+## References
+Based off of an example from [colinwilson](https://github.com/colinwilson/example-terraform-modules/tree/terraform-digitalocean-ha-k3s).
